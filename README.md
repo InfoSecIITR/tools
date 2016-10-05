@@ -22,3 +22,9 @@
 + [Rumkin ciphers](http://rumkin.com/tools/cipher/) - multiple (ancient) crypto stuff
 + [quipqiup](http://quipqiup.com/) - solving cryptograms
 + [xortool](https://github.com/hellman/xortool) - solving multi-byte xor cipher
+
+## Forensics
++ [Foremost] (http://foremost.sourceforge.net/) - recover hidden files
+
+## Web exploitation
++ [GitTools] (https://github.com/internetwache/GitTools) - downloads exposed .git repo of vulnearable websites
