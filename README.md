@@ -25,6 +25,7 @@
 + [Rumkin ciphers](http://rumkin.com/tools/cipher/) - multiple (ancient) crypto stuff
 + [quipqiup](http://quipqiup.com/) - solving cryptograms
 + [xortool](https://github.com/hellman/xortool) - solving multi-byte xor cipher
++ [rsatool](https://github.com/ius/rsatool) - to calculate rsa params
 
 ## Forensics
 + [Foremost](http://foremost.sourceforge.net/) - recover hidden files
