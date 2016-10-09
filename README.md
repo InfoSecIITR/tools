@@ -32,3 +32,6 @@
 
 ## Web exploitation
 + [GitTools] (https://github.com/internetwache/GitTools) - downloads exposed .git repo of vulnearable websites
++ SQLMap - automated sql injection
++ Hackbar - indispensible addon for web exploitation in firefox
++ CookieManager - addon for firefox
