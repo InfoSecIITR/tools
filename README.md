@@ -16,6 +16,7 @@
 + [qira](http://qira.me/) - if you can get it to work & understand it
 + checksec - peda can give the same info though
 + [pwntools](https://pwntools.readthedocs.io/en/stable/)
++ [fupy](https://github.com/gdelugre/fupy) - fast and dirty python decompiler
 
 ## Cryptography
 
