@@ -32,6 +32,7 @@
 + [Binwalk](https://github.com/devttys0/binwalk) - find offsets of files which are concatenated contiguously
 + [Autopsy](https://github.com/sleuthkit/autopsy) - find deleted files from harddisk dumps
 + [Wireshark](https://wireshark.org) - analyze network captures
++ [Stegsolve](http://www.ww.caesum.com/handbook/Stegsolve.jar)
 
 ## Web exploitation
 + [GitTools](https://github.com/internetwache/GitTools) - downloads exposed .git repo of vulnearable websites
