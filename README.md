@@ -10,11 +10,11 @@
 
 ## Binary exploitation/reversing
 
-+ IDA (Demo, if not Pro)
-+ gdb
++ [IDA](https://www.hex-rays.com/products/ida/index.shtml) (Demo, if not Pro)
++ [gdb](https://www.gnu.org/software/gdb)
 + [PEDA](https://github.com/longld/peda) - makes gdb far more usable
 + [qira](http://qira.me/) - if you can get it to work & understand it
-+ checksec - peda can give the same info though
++ [checksec](https://github.com/slimm609/checksec.sh) - peda can give the same info though
 + [pwntools](https://pwntools.readthedocs.io/en/stable/)
 + [fupy](https://github.com/gdelugre/fupy) - fast and dirty python decompiler
 
@@ -25,13 +25,13 @@
 + [xortool](https://github.com/hellman/xortool) - solving multi-byte xor cipher
 
 ## Forensics
-+ [Foremost] (http://foremost.sourceforge.net/) - recover hidden files
-+ Binwalk - find offsets of files which are concatenated contiguously
-+ Autopsy - find deleted files from harddisk dumps
-+ Wireshark - analyze network captures
++ [Foremost](http://foremost.sourceforge.net/) - recover hidden files
++ [Binwalk](https://github.com/devttys0/binwalk) - find offsets of files which are concatenated contiguously
++ [Autopsy](https://github.com/sleuthkit/autopsy) - find deleted files from harddisk dumps
++ [Wireshark](https://wireshark.org) - analyze network captures
 
 ## Web exploitation
-+ [GitTools] (https://github.com/internetwache/GitTools) - downloads exposed .git repo of vulnearable websites
-+ SQLMap - automated sql injection
-+ Hackbar - indispensible addon for web exploitation in firefox
-+ CookieManager - addon for firefox
++ [GitTools](https://github.com/internetwache/GitTools) - downloads exposed .git repo of vulnearable websites
++ [SQLMap](https://github.com/sqlmapproject/sqlmap) - automated sql injection
++ [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbar/) - indispensible addon for web exploitation in firefox
++ [CookieManager](https://addons.mozilla.org/en-US/firefox/addon/cookies-manager-plus/) - addon for firefox
