@@ -26,6 +26,9 @@
 
 ## Forensics
 + [Foremost] (http://foremost.sourceforge.net/) - recover hidden files
++ Binwalk - find offsets of files which are concatenated contiguously
++ Autopsy - find deleted files from harddisk dumps
++ Wireshark - analyze network captures
 
 ## Web exploitation
 + [GitTools] (https://github.com/internetwache/GitTools) - downloads exposed .git repo of vulnearable websites
