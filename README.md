@@ -39,3 +39,4 @@
 + [SQLMap](https://github.com/sqlmapproject/sqlmap) - automated sql injection
 + [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbar/) - indispensible addon for web exploitation in firefox
 + [CookieManager](https://addons.mozilla.org/en-US/firefox/addon/cookies-manager-plus/) - addon for firefox
++ [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - add on for chrome.
