@@ -33,9 +33,11 @@
 + [Autopsy](https://github.com/sleuthkit/autopsy) - find deleted files from harddisk dumps
 + [Wireshark](https://wireshark.org) - analyze network captures
 + [Stegsolve](http://www.ww.caesum.com/handbook/Stegsolve.jar)
++ [Cloudshark](https://www.cloudshark.org) - Analyze network captures online
 
 ## Web exploitation
 + [GitTools](https://github.com/internetwache/GitTools) - downloads exposed .git repo of vulnearable websites
 + [SQLMap](https://github.com/sqlmapproject/sqlmap) - automated sql injection
 + [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbar/) - indispensible addon for web exploitation in firefox
 + [CookieManager](https://addons.mozilla.org/en-US/firefox/addon/cookies-manager-plus/) - addon for firefox
++ [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - add on for chrome.
