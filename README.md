@@ -26,6 +26,7 @@
 + [quipqiup](http://quipqiup.com/) - solving cryptograms
 + [xortool](https://github.com/hellman/xortool) - solving multi-byte xor cipher
 + [rsatool](https://github.com/ius/rsatool) - to calculate rsa params
++ [featherduster](https://github.com/nccgroup/featherduster) -  An automated, modular cryptanalysis tool 
 
 ## Forensics
 + [Foremost](http://foremost.sourceforge.net/) - recover hidden files
