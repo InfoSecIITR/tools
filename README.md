@@ -15,11 +15,12 @@
 + [PEDA](https://github.com/longld/peda) - makes gdb far more usable
 + [qira](http://qira.me/) - if you can get it to work & understand it
 + [checksec](https://github.com/slimm609/checksec.sh) - peda can give the same info though
-+ [pwntools](https://pwntools.readthedocs.io/en/stable/) makes pwning easier
++ [pwntools](https://pwntools.readthedocs.io/en/stable/) - makes pwning easier
 + [radare2](https://github.com/radare/radare2) - reverse engineering framework
 + [angr](https://github.com/angr/angr) - a binary analysis framework with a great symbolic execution engine
 + [fupy](https://github.com/gdelugre/fupy) - fast and dirty python decompiler
 + [JD-GUI](https://github.com/java-decompiler/jd-gui) - java decompiler
++ [Java Decompilers](javadecompilers.com) - Online decompiler for Java and Android APKs
 
 ## Cryptography
 
