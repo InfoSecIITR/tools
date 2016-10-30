@@ -20,7 +20,7 @@
 + [angr](https://github.com/angr/angr) - a binary analysis framework with a great symbolic execution engine
 + [fupy](https://github.com/gdelugre/fupy) - fast and dirty python decompiler
 + [JD-GUI](https://github.com/java-decompiler/jd-gui) - java decompiler
-+ [Java Decompilers](javadecompilers.com) - Online decompiler for Java and Android APKs
++ [Java Decompilers](http://www.javadecompilers.com) - Online decompiler for Java and Android APKs
 
 ## Cryptography
 
