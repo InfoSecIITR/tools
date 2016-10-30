@@ -19,6 +19,7 @@
 + [radare2](https://github.com/radare/radare2) - reverse engineering framework
 + [angr](https://github.com/angr/angr) - a binary analysis framework with a great symbolic execution engine
 + [fupy](https://github.com/gdelugre/fupy) - fast and dirty python decompiler
++ [JD-GUI](https://github.com/java-decompiler/jd-gui) - java decompiler
 
 ## Cryptography
 
@@ -26,7 +27,9 @@
 + [quipqiup](http://quipqiup.com/) - solving cryptograms
 + [xortool](https://github.com/hellman/xortool) - solving multi-byte xor cipher
 + [rsatool](https://github.com/ius/rsatool) - to calculate rsa params
-+ [featherduster](https://github.com/nccgroup/featherduster) -  An automated, modular cryptanalysis tool 
++ [featherduster](https://github.com/nccgroup/featherduster) -  An automated, modular cryptanalysis tool
++ [attackrsa](https://github.com/rk700/attackrsa) -  An all-in-one tool including many common attacks against RSA problems in CTF
+
 
 ## Forensics
 + [Foremost](http://foremost.sourceforge.net/) - recover hidden files
@@ -35,6 +38,7 @@
 + [Wireshark](https://wireshark.org) - analyze network captures
 + [Stegsolve](http://www.ww.caesum.com/handbook/Stegsolve.jar)
 + [Cloudshark](https://www.cloudshark.org) - Analyze network captures online
++ [John The Ripper](http://www.openwall.com/john/) - password cracking tool
 
 ## Web exploitation
 + [GitTools](https://github.com/internetwache/GitTools) - downloads exposed .git repo of vulnearable websites
@@ -42,3 +46,4 @@
 + [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbar/) - indispensible addon for web exploitation in firefox
 + [CookieManager](https://addons.mozilla.org/en-US/firefox/addon/cookies-manager-plus/) - addon for firefox
 + [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - add on for chrome.
++ [requests](https://github.com/kennethreitz/requests) - python library used for sending HTTP requests
