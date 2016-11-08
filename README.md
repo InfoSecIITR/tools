@@ -11,7 +11,7 @@
 ## Binary exploitation/reversing
 
 + [IDA](https://www.hex-rays.com/products/ida/index.shtml) (Demo, if not Pro)
-+ [gdb](https://www.gnu.org/software/gdb)
++ [gdb](https://www.gnu.org/software/gdb/)
 + [PEDA](https://github.com/longld/peda) - makes gdb far more usable
 + [qira](http://qira.me/) - if you can get it to work & understand it
 + [checksec](https://github.com/slimm609/checksec.sh) - peda can give the same info though
@@ -36,7 +36,7 @@
 + [Foremost](http://foremost.sourceforge.net/) - recover hidden files
 + [Binwalk](https://github.com/devttys0/binwalk) - find offsets of files which are concatenated contiguously
 + [Autopsy](https://github.com/sleuthkit/autopsy) - find deleted files from harddisk dumps
-+ [Wireshark](https://wireshark.org) - analyze network captures
++ [Wireshark](https://www.wireshark.org/) - analyze network captures
 + [Stegsolve](http://www.ww.caesum.com/handbook/Stegsolve.jar)
 + [Cloudshark](https://www.cloudshark.org) - Analyze network captures online
 + [John The Ripper](http://www.openwall.com/john/) - password cracking tool
