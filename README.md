@@ -48,3 +48,4 @@
 + [CookieManager](https://addons.mozilla.org/en-US/firefox/addon/cookies-manager-plus/) - addon for firefox
 + [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - add on for chrome.
 + [requests](https://github.com/kennethreitz/requests) - python library used for sending HTTP requests
++ [Wfuzz](http://www.edge-security.com/wfuzz.php) - to detect directories and pages on the server using common wordlists.
