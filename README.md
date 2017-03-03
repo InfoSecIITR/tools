@@ -30,6 +30,7 @@
 + [rsatool](https://github.com/ius/rsatool) - to calculate rsa params
 + [featherduster](https://github.com/nccgroup/featherduster) -  An automated, modular cryptanalysis tool
 + [attackrsa](https://github.com/rk700/attackrsa) -  An all-in-one tool including many common attacks against RSA problems in CTF
++ [RsaCTFtool](https://github.com/sourcekris/RsaCtfTool) - An automated tool to crack public keys of rsa using various standard techniques
 
 
 ## Forensics
