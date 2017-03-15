@@ -41,7 +41,7 @@
 + [Stegsolve](http://www.ww.caesum.com/handbook/Stegsolve.jar)
 + [Cloudshark](https://www.cloudshark.org) - Analyze network captures online
 + [John The Ripper](http://www.openwall.com/john/) - password cracking tool
-+ [Stegosaurus](https://bitbucket.org/jherron/stegosaurus) - tool that allows embedding arbitrary payloads in Python bytecode (pyc or pyo) files
++ [Stegosaurus](https://bitbucket.org/jherron/stegosaurus/src) - tool that allows embedding arbitrary payloads in Python bytecode (pyc or pyo) files
 
 ## Web exploitation
 + [GitTools](https://github.com/internetwache/GitTools) - downloads exposed .git repo of vulnearable websites
