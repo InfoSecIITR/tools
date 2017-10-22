@@ -31,7 +31,7 @@
 + [featherduster](https://github.com/nccgroup/featherduster) -  An automated, modular cryptanalysis tool
 + [attackrsa](https://github.com/rk700/attackrsa) -  An all-in-one tool including many common attacks against RSA problems in CTF
 + [RsaCTFtool](https://github.com/sourcekris/RsaCtfTool) - An automated tool to crack public keys of rsa using various standard techniques
-
++ [Untwister](https://github.com/altf4/untwister) - A seed recovery tool for various PRNGs
 
 ## Forensics
 + [Foremost](http://foremost.sourceforge.net/) - recover hidden files
