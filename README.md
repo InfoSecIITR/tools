@@ -21,6 +21,7 @@
 + [fupy](https://github.com/gdelugre/fupy) - fast and dirty python decompiler
 + [JD-GUI](https://github.com/java-decompiler/jd-gui) - java decompiler
 + [Java Decompilers](http://www.javadecompilers.com) - Online decompiler for Java and Android APKs
++ [syms2elf](https://github.com/danigargu/syms2elf) - A plugin for Hex-Ray's IDA Pro and radare2 to export the symbols recognized to the ELF symbol table 
 
 ## Cryptography
 
