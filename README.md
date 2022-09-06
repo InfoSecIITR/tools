@@ -53,3 +53,4 @@
 + [requests](https://github.com/requests/requests) - python library used for sending HTTP requests
 + [Wfuzz](http://www.edge-security.com/wfuzz.php) - to detect directories and pages on the server using common wordlists.
 + [XSS Payloads](https://github.com/nettitude/xss_payloads)
++ [Aeroleads](https://aeroleads.com/) - Chrome Add-on for finding anyone's email and phone number
